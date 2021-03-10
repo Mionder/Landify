@@ -323,3 +323,48 @@ body{
     max-width: 450px;
     margin-top: 60px;
 }
+
+.experience-wrapper .main-info{
+    padding: 82px 0;
+}
+
+.experience-wrapper .main-item .title{
+    font-weight: 800;
+    font-size: 48px;
+    line-height: 64px;
+    font-feature-settings: 'liga' off;
+    color: #18191F;
+}
+.experience-wrapper .main-item .subtitle{
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 32px;
+    font-feature-settings: 'liga' off;
+    color: #18191F;
+    margin-top: 8px;
+}
+
+.experience-wrapper .main-item .exp-item .title{
+    font-weight: 800;
+    font-size: 28px;
+    line-height: 40px;
+    font-feature-settings: 'liga' off;
+    color: #18191F;
+}
+ .experience-wrapper .main-item .exp-item .desc{
+     font-weight: normal;
+     font-size: 16px;
+     line-height: 26px;
+     font-feature-settings: 'liga' off;
+     color: #18191F;
+ }
+.experience-wrapper .main-item .exp-content{
+    padding-left: 24px;
+}
+.experience-wrapper .main-item {
+    max-width: 450px;
+}
+.exp-item{
+    width: 48%;
+    padding-bottom: 40px;
+}
